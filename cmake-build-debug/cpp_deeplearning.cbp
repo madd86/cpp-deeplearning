@@ -83,6 +83,9 @@
 		<Unit filename="/Users/gabriel/CLionProjects/cpp-deeplearning/main.cpp">
 			<Option target="cpp_deeplearning"/>
 		</Unit>
+		<Unit filename="/Users/gabriel/CLionProjects/cpp-deeplearning/mnist_ml/include/common.hpp">
+			<Option target="cpp_deeplearning"/>
+		</Unit>
 		<Unit filename="/Users/gabriel/CLionProjects/cpp-deeplearning/mnist_ml/include/data.hpp">
 			<Option target="cpp_deeplearning"/>
 		</Unit>
