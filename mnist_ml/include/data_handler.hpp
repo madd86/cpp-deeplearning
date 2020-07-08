@@ -1,0 +1,8 @@
+//
+// Created by Gabriel Leon de Matos on 7/8/20.
+//
+
+#ifndef CPP_DEEPLEARNING_DATA_HANDLER_HPP
+#define CPP_DEEPLEARNING_DATA_HANDLER_HPP
+
+#endif //CPP_DEEPLEARNING_DATA_HANDLER_HPP

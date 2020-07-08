@@ -1,0 +1,4 @@
+"/Users/gabriel/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/201.7846.88/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/gabriel/CLionProjects/cpp-deeplearning
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gabriel/CLionProjects/cpp-deeplearning/cmake-build-debug
